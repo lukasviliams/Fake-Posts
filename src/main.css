@@ -1,0 +1,23 @@
+:root{
+--main:#ecf8f8;
+--secondary:#eee4e1;
+--fonts:#b2967d;
+--loader:#5A4635;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* ::after, *::before{
+    box-sizing: inherit;
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--main);
+}
+::selection{
+    color: var(--main);
+}
