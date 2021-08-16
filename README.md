@@ -1,4 +1,10 @@
 # fake-blog
+Vue  app using API from https://jsonplaceholder.typicode.com/ 
+watchedeffect 
+computed property 
+custom emits from input 
+Scroll event 
+
 
 ## Project setup
 ```
